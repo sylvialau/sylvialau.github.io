@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sylvialau.github.io</id>
     <title>Heal On My Hill</title>
-    <updated>2020-03-29T10:02:49.337Z</updated>
+    <updated>2020-04-03T13:47:57.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sylvialau.github.io"/>
     <link rel="self" href="https://sylvialau.github.io/atom.xml"/>
@@ -11,12 +11,55 @@
     <icon>https://sylvialau.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Heal On My Hill</rights>
     <entry>
-        <title type="html"><![CDATA[讲座笔记 | 传媒业边界的消失与专业性的重塑]]></title>
+        <title type="html"><![CDATA[学习笔记 | 商业模式创新思维与行动]]></title>
+        <id>https://sylvialau.github.io/post/Q5fHtO6tq/</id>
+        <link href="https://sylvialau.github.io/post/Q5fHtO6tq/">
+        </link>
+        <updated>2020-04-03T10:15:39.000Z</updated>
+        <content type="html"><![CDATA[<p>复旦商业知识学堂<br>
+https://elearning.fdsm.fudan.edu.cn/f/main/courseDetails?id=500004</p>
+<h2 id="商业模式创新思维与行动">商业模式创新思维与行动</h2>
+<p>复旦大学管理学院管理科学系教授，博士生导师 宁钟</p>
+<h4 id="第一课-新常态经济下的企业竞争">第一课 新常态经济下的企业竞争</h4>
+<p><strong>什么是新常态经济？</strong></p>
+<ol>
+<li>高速增长转为中高速增长</li>
+<li>经济结构优化升级</li>
+<li>经济增长更趋平稳、动力多元</li>
+</ol>
+<p><strong>当前企业竞争的特征</strong></p>
+<p>从“阿里”看：企业要灵活</p>
+<ol>
+<li>运营灵活：对市场和顾客需求反应迅速</li>
+<li>业务灵活：让企业资产轻下来
+<ul>
+<li>在当前和未来相当长的一段时间内不要轻易投资扩产，很多行业产能过剩，直接并购重组拿过来</li>
+<li>如果资产很重 ，则让资产证券化<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>：</li>
+</ul>
+</li>
+<li>战略灵活：抓住黄金机会 e.g. 阿联酋航空灵活性战略</li>
+</ol>
+<p>从“福尔曼”看：企业管理要有耐受性，供应链管理能让企业获得耐受性。</p>
+<p>企业相对于对手来说持续性降低成本：跑冒滴漏堵住/提高技术/销售扩大/和供应商一起想办法降低整个供应链的成本</p>
+<pre><code>通过商业模式的创新可获得灵活性/耐受性/灵活耐受性。
+</code></pre>
+<h4 id="第二课-互联网思维与行动">第二课 互联网+思维与行动</h4>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>资产证券化是指以基础资产未来所产生的现金流为偿付支持，通过结构化设计进行信用增级，在此基础上发行资产支持证券（Asset-backed Securities, ABS）的过程。 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习笔记 | 传媒业边界的消失与专业性的重塑]]></title>
         <id>https://sylvialau.github.io/post/jiang-zuo-bi-ji-or-chuan-mei-ye-bian-jie-de-xiao-shi-yu-zhuan-ye-xing-de-chong-su/</id>
         <link href="https://sylvialau.github.io/post/jiang-zuo-bi-ji-or-chuan-mei-ye-bian-jie-de-xiao-shi-yu-zhuan-ye-xing-de-chong-su/">
         </link>
         <updated>2020-03-23T02:46:09.000Z</updated>
-        <content type="html"><![CDATA[<p>链接：传媒业边界的消失与专业性的重塑 彭兰<br>
+        <content type="html"><![CDATA[<p>讲座链接：传媒业边界的消失与专业性的重塑 彭兰<br>
 https://www.bilibili.com/video/av34422256?p=2</p>
 <h3 id="传媒业边界线消失">传媒业边界线消失</h3>
 <p>专业媒体面临自媒体冲击，在汪洋大海中是否会被淹没？<br>
